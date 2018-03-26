@@ -22,5 +22,7 @@
 
 
 
+
+
 [^1]: In modern computing terminology, a "kludge" \(or often a "hack"\) is a solution to a problem, doing a task, or fixing a system that is inefficient, inelegant \("hacky"\) or even unfathomable, but which nevertheless \(more or less\) works.[https://en.wikipedia.org/wiki/Kludge\#Computer\_science](https://en.wikipedia.org/wiki/Kludge#Computer_science)
 
