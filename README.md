@@ -14,7 +14,7 @@
 
 所以现在是写第三版的时候了，把所有这些新的工具、技术和思维方式集合到一个参考中去。为了完成这项任务，我汲取了我的好朋友的能力，Emil Björklund，拥有罕见技巧和能力的开发者。Emil给这本书带来的是对现代CSS实践的深刻理解；如何使用最新的技术，以最优雅的方式在最广泛的浏览器、屏幕和平台上工作，从而生成高度灵活的代码。
 
-总之，我们几乎彻底重写了这本书，增加了网页排版，动画，布局，响应设计，如何构造你的代码，以及更多的新篇章。这个新版本追随以前版本的脚步，提供多样化的实际例子，语言参考和跨浏览器的解决棘手问题的技术。掌握CSS的标志不再是知道所有的神秘hacks[^1]来使CSS工作，或知道所有核心属性。今天的CSS由几十个规范组成，包含数百个属性，可能没有人知道这一切！相反，本书强调灵活性和健壮性，确保代码在不同浏览器、设备和使用情况下不断变化的场景中工作。我们不会涵盖每一个语言功能，但你会发现一个很好的概述可用的，一些鲜为人知的守旧派把戏，偶尔瞥一眼CSS的未来。
+总之，我们几乎彻底重写了这本书，增加了网页排版，动画，布局，响应设计，如何构造你的代码，以及更多的新篇章。这个新版本追随以前版本的脚步，提供多样化的实际例子，语言参考和跨浏览器的解决棘手问题的技术。掌握CSS的标志不再是知道所有的神秘hacks[^1]来使CSS工作，或知道所有核心属性。今天的CSS由几十个规范组成，包含数百个属性，可能没有人知道这一切！相反，本书强调灵活性和健壮性，确保代码在不同浏览器、设备和使用情况下不断变化的场景中工作。我们不会涵盖每一个语言功能，但你会发现CSS的概述，包括那些是可用的，一些鲜为人知的守旧派把戏，还会偶尔瞥一眼CSS的未来。
 
-[^1]: In modern computing terminology, a "kludge" \(or often a "hack"\) is a solution to a problem, doing a task, or fixing a system that is inefficient, inelegant \("hacky"\) or even unfathomable, but which nevertheless \(more or less\) works.https://en.wikipedia.org/wiki/Kludge\#Computer\_science
+[^1]: In modern computing terminology, a "kludge" \(or often a "hack"\) is a solution to a problem, doing a task, or fixing a system that is inefficient, inelegant \("hacky"\) or even unfathomable, but which nevertheless \(more or less\) works.[https://en.wikipedia.org/wiki/Kludge\#Computer\_science](https://en.wikipedia.org/wiki/Kludge#Computer_science)
 
