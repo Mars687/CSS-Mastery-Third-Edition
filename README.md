@@ -1,6 +1,6 @@
 # 序
 
-《精通CSS：高级web标准解决方案》是为数不多系统而全面讲解CSS的图书，目前该书英文第三版已由 Springer Nature旗下的Apress出版社于2016年出版发行，而中文版第三版尚在翻译中。这本笔记是以CSS Mastery\\(3rd edition\\)为主体，参考其他相关资料整理而成。
+《精通CSS：高级web标准解决方案》是为数不多系统而全面讲解CSS的图书，目前该书英文第三版已由 Springer Nature旗下的Apress出版社于2016年出版发行，而中文第三版尚在翻译中。这本笔记是以CSS Mastery\\(3rd edition\\)为主体，参考其他相关资料整理而成。
 
 # 
 
@@ -19,10 +19,6 @@
 要充分享受这本书，你至少应该对CSS如何工作有一点了解，也许你已经和CSS打过一段时间交道，甚至在一两个网站上工作过。这本书开始的三个简短的介绍章节是创建和设计网页的基础，所以即使你对此生疏了，你会得到一个扼要回顾。之后，每一章都介绍了语言的新特点和越来越复杂的例子，即使你是一个经验丰富的CSS练习者，你也应该找到很多有趣而有用的技巧来解决常见的网页设计问题，在这种情况下，你可以随意跳到那些引起你兴趣的章节。
 
 不管您以前对该语言的理解如何，我们希望最终的书将帮助您解开CSS的一些秘密，成为真正的CSS大师。
-
-
-
-
 
 [^1]: In modern computing terminology, a "kludge" \(or often a "hack"\) is a solution to a problem, doing a task, or fixing a system that is inefficient, inelegant \("hacky"\) or even unfathomable, but which nevertheless \(more or less\) works.[https://en.wikipedia.org/wiki/Kludge\#Computer\_science](https://en.wikipedia.org/wiki/Kludge#Computer_science)
 
